@@ -1,1 +1,2 @@
 # UniInterNet
+This repo provides the processed samples of noisy audios from the [VoiceBank_DEMAND test set](https://datashare.ed.ac.uk/handle/10283/2791) and the [DNS-Challenge non-blind test set](https://github.com/microsoft/DNS-Challenge). These samples are enhanced using our proposed UniInterNet model.
